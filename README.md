@@ -1,6 +1,6 @@
 # Ember-clndr
 
-This README outlines the details of collaborating on this Ember addon.
+A work in progress to wrap the CLNDR.js functionality on an Ember addon.
 
 ## Installation
 
