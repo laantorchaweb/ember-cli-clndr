@@ -122,6 +122,11 @@ p {
   font-size: 10px;
   background: #0D70A6;
 }
+.ember-clndr.cal2 .clndr .clndr-table .header-days {
+  height: 30px;
+  font-size: 10px;
+  background: orange;
+}
 .ember-clndr .clndr .clndr-table .header-days .header-day {
   vertical-align: middle;
   text-align: center;
