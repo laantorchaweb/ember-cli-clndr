@@ -1,6 +1,6 @@
 {
   "name": "ember-clndr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An Ember wrapper for the CLNDR.js plugin for creating calendars.",
   "directories": {
     "doc": "doc",
@@ -15,7 +15,8 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Sebastian Baroni",
+  "main": "index.js",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
