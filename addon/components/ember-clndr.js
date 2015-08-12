@@ -41,6 +41,10 @@ export default Ember.Component.extend({
           _this.sendAction('today', month);
         }
       },
+
+      doneRendering: function() {
+        _this.sendAction('doneRendering');
+      }
     });
   })
 });
